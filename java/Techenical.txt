@@ -1,0 +1,11 @@
+1. String reverse without using String inbuilt function
+2. Java Program to Check Whether a Number is Even or Odd (without using Modulus operator)
+3. Java Program To Check If Any String Is Palindrome Without Using Reverse Method
+4. Fibonacci Series in Java without using recursion
+5. Check a given number prime or not without loop, Recursion
+6. Java program to sum of odd numbers between 1 -50
+7. Java Program to Add Digits Until the Number Becomes a Single Digit Number
+8. Java Program Sum Of N Numbers
+9. Java Program to Break Integer into Digits
+10. Swap variables without using temperoary variable.
+11. Find the second larges number in an array.
